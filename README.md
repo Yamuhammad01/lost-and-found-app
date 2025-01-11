@@ -48,6 +48,7 @@ Install Dependencies:
 Ensure you have .NET Core installed. Then, restore dependencies:
 
 dotnet restore
+
 Run the Application: Start the project
 
 dotnet run
