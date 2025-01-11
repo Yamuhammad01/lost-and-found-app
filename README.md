@@ -30,7 +30,7 @@ ASP.NET Core
 
 Microsoft Entity Framework for Object Relational Mapping (ORM)
 
-Dependency Injection(mostly parametized constructor injection)
+Dependency Injection
 
 Database:
 Microsoft SQL Server
