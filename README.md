@@ -21,8 +21,12 @@ Clent Side Validation with Blazor Web Assembly
 
 Backend:
 C#
+
 ASP.NET Core 
+
 Microsoft Entity Framework for Object Relational Mapping (ORM)
+
 Dependency Injection(mostly parametized constructor injection)
+
 Database:
 Microsoft SQL Server
