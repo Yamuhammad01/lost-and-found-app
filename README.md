@@ -16,8 +16,11 @@ Update items: Users can update the items they found or lost
 Technologies Used:
 
 Frontend:
+
 HTML, CSS
+
 Blazor Components
+
 Clent Side Validation with Blazor Web Assembly
 
 Backend:
