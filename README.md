@@ -34,3 +34,24 @@ Dependency Injection(mostly parametized constructor injection)
 
 Database:
 Microsoft SQL Server
+
+Installation
+Follow these steps to set up the project on your local machine:
+
+Clone the Repository:
+
+git clone https://github.com/Yamuhammad01/lost-and-found-app.git
+cd lost-and-found-app
+
+Install Dependencies:
+Ensure you have .NET Core installed. Then, restore dependencies:
+
+dotnet restore
+Run the Application: Start the project
+dotnet run
+
+Contact
+For any questions or feedback, feel free to reach out to me
+
+Email: idrismuhd814@gmail.com
+GitHub: Yamuhammad01
