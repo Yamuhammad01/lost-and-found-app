@@ -17,11 +17,11 @@ Technologies Used:
 
 Frontend:
 
-HTML, CSS
+HTML & CSS
 
 Blazor Components
 
-Clent Side Validation with Blazor Web Assembly
+Client Side Validation with Blazor Web Assembly
 
 Backend:
 C#
