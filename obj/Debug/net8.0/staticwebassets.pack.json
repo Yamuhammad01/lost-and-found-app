@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LostAndFoundApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LostAndFoundApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LostAndFoundApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LostAndFoundApp.props",
+      "PackagePath": "build\\LostAndFoundApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LostAndFoundApp.props",
+      "PackagePath": "buildMultiTargeting\\LostAndFoundApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LostAndFoundApp.props",
+      "PackagePath": "buildTransitive\\LostAndFoundApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

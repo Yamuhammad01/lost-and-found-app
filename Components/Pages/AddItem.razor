@@ -1,0 +1,125 @@
+﻿@page "/add-item"
+@rendermode InteractiveServer
+@using LostAndFoundApp.Models
+@using System.ComponentModel.DataAnnotations
+
+@inject LostAndFoundApp.Services.IItemService ItemService
+@inject NavigationManager Navigation
+
+<head>
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+
+
+
+<div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="form-container">
+        <h3>Add a New Item</h3>
+
+            <div class="mb-3">
+                <label for="Name" class="form-label">Item Name</label>
+                <input type="text" id="Name" @bind="newName" class="form-control" />
+                @if (string.IsNullOrEmpty(newName))
+                {
+                    <div class="text-danger">Item Name is required.</div>
+                }
+            </div>
+
+        <div class="mb-3">
+            <label for="Finder" class="form-label">Finder</label>
+            <input type="text" id="Finder" @bind="newFinder" />
+        </div>
+
+        <div class="mb-3">
+            <label for="status" class="form-label">Status</label>
+            <InputSelect id="status" @bind-Value="newStatus">
+                <option value="" disabled selected>Select status</option>
+                <option value="Lost">Lost</option>
+                <option value="Found">Found</option>
+            </InputSelect>
+        </div>
+
+        <div class="mb-3">
+            <label for="description" class="form-label">Description</label>
+            <input type="text" id="description"
+                   @bind="newDescription"
+                   @oninput="ValidateDescription"
+                   class="form-control" />
+            @if (!string.IsNullOrEmpty(errorMessage))
+            {
+                <div class="text-danger mt-1">@errorMessage</div>
+            }
+        </div>
+
+        <div class="mb-3">
+            <label for="description" class="form-label">Contact Number</label>
+            <input type="text" id="description" @bind="newPhoneNumber" />
+        </div>
+
+        <div class="mb-3">
+            <label for="dateFounded" class="form-label">Date</label>
+            <input type="text" id="datefounded" @bind="newDateFounded" />
+        </div>
+
+        <div class="text-center">
+            <button class="btn btn-secondary me-2" @onclick="Cancel">Cancel</button>
+            <button class="btn btn-primary" @onclick="InsertItem">Save</button>
+        </div>
+    </div>
+</div>
+
+@code {
+    private string newName;
+    private string newFinder;
+    private string newStatus;
+    private string newDescription;
+    private string errorMessage;
+    private string newPhoneNumber;
+    private DateOnly newDateFounded;
+
+    private async Task InsertItem()
+    {
+        if (string.IsNullOrEmpty(newName))
+        {
+            Console.WriteLine("Item Name is required.");
+        }
+        else
+        {
+            Console.WriteLine("Form submitted successfully!");
+        }
+        var newItem = new Models.Item
+            {
+                Name = newName,
+                Finder = newFinder,
+                Status = newStatus,
+                Description = newDescription,
+                PhoneNumber = newPhoneNumber,
+                DateFound = newDateFounded
+            };
+       
+        await ItemService.AddItem(newItem);
+        Navigation.NavigateTo("/item");
+        StateHasChanged();
+        
+
+    }
+
+    private void Cancel()
+    {
+        Navigation.NavigateTo("/item");
+    }
+    private void ValidateDescription(ChangeEventArgs e)
+    {
+        var input = e.Value.ToString();
+        if (input.Length > 70)
+        {
+            errorMessage = "You can only input maximum of 60 characters";
+            newDescription = input.Substring(0, 60); 
+        }
+        else
+        {
+            errorMessage = string.Empty; 
+            newDescription = input;
+        }
+    }
+}
