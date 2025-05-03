@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\models\\itemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:models\\itemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\drop dbo.items.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:drop dbo.items.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\components\\pages\\additem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:components\\pages\\additem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\components\\pages\\update.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:components\\pages\\update.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\components\\pages\\item.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:components\\pages\\item.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\migrations\\itemdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:migrations\\itemdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LostAndFoundDB/True/SqlTable/dbo.Items.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\lostandfoundapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:lostandfoundapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idris\\AppData\\Local\\Temp\\.vsdbgsrc\\ec71214d3c86203999bcc03b589f2e2c75f7e7f9\\Components_Layout_NavMenu_razor.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|c:\\users\\idris\\desktop\\workspace\\lostandfoundapp\\migrations\\20241226134844_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6914330-D24A-41E4-8498-5AB4A14314AB}|LostAndFoundApp.csproj|solutionrelative:migrations\\20241226134844_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddItem.razor",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Pages\\AddItem.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\AddItem.razor",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Pages\\AddItem.razor",
+              "RelativeToolTip": "Components\\Pages\\AddItem.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwHEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T14:39:18.336Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\DbContextFactory.cs",
+              "RelativeToolTip": "DbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:44:59.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Models\\ItemDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ItemDbContext.cs",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Models\\ItemDbContext.cs",
+              "RelativeToolTip": "Models\\ItemDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:07:26.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:48:54.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T11:43:10.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:01:47.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Services\\ItemService.cs",
+              "RelativeToolTip": "Services\\ItemService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:30:06.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Services\\IItemService.cs",
+              "RelativeDocumentMoniker": "Services\\IItemService.cs",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Services\\IItemService.cs",
+              "RelativeToolTip": "Services\\IItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:17:01.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Drop dbo.Items.sql",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Drop dbo.Items.sql",
+              "RelativeDocumentMoniker": "Drop dbo.Items.sql",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Drop dbo.Items.sql",
+              "RelativeToolTip": "Drop dbo.Items.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-26T14:13:29.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T13:08:59.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T21:52:04.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T13:21:22.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Item.razor",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Pages\\Item.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Item.razor",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Pages\\Item.razor",
+              "RelativeToolTip": "Components\\Pages\\Item.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T21:19:08.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "wwwroot\\css\\home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T20:56:44.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T21:22:53.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.razor",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Pages\\Update.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Update.razor",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Components\\Pages\\Update.razor",
+              "RelativeToolTip": "Components\\Pages\\Update.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T21:55:43.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T12:57:44.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Migrations\\ItemDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ItemDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Migrations\\ItemDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ItemDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:47:46.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241226134844_secondmigration.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Migrations\\20241226134844_secondmigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241226134844_secondmigration.cs",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Migrations\\20241226134844_secondmigration.cs",
+              "RelativeToolTip": "Migrations\\20241226134844_secondmigration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:48:45.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\app.css",
+              "RelativeToolTip": "wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T12:55:11.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "wwwroot\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T12:55:06.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T11:12:30.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Items.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LostAndFoundDB/True/SqlTable/dbo.Items.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LostAndFoundDB/True/SqlTable/dbo.Items.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-22T22:47:33.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LostAndFoundApp.csproj",
+              "DocumentMoniker": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\LostAndFoundApp.csproj",
+              "RelativeDocumentMoniker": "LostAndFoundApp.csproj",
+              "ToolTip": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\LostAndFoundApp.csproj",
+              "RelativeToolTip": "LostAndFoundApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T09:52:43.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Components_Layout_NavMenu_razor.g.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\AppData\\Local\\Temp\\.vsdbgsrc\\ec71214d3c86203999bcc03b589f2e2c75f7e7f9\\Components_Layout_NavMenu_razor.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ec71214d3c86203999bcc03b589f2e2c75f7e7f9\\Components_Layout_NavMenu_razor.g.cs",
+              "ToolTip": "C:\\Users\\idris\\AppData\\Local\\Temp\\.vsdbgsrc\\ec71214d3c86203999bcc03b589f2e2c75f7e7f9\\Components_Layout_NavMenu_razor.g.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ec71214d3c86203999bcc03b589f2e2c75f7e7f9\\Components_Layout_NavMenu_razor.g.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:53:46.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

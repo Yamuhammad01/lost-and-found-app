@@ -1,0 +1,31 @@
+﻿namespace LostAndFoundApp.wwwroot.css
+/* wwwroot/css/styles.css */
+.table-responsive {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .table th, .table td {
+        padding: 8px;
+        text-align: left;
+        border: 1px solid #ddd;
+    }
+
+@media (max-width: 600px) {
+    .table th, .table td {
+        padding: 4px;
+    }
+
+    .table th {
+        font-size: 12px;
+    }
+
+    .table td {
+        font-size: 10px;
+    }
+}
