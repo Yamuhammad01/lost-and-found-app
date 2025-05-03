@@ -165,3 +165,4 @@ C:\Users\idris\Desktop\WorkSpace\LostAndFoundApp\obj\Debug\net8.0\refint\LostAnd
 C:\Users\idris\Desktop\WorkSpace\LostAndFoundApp\obj\Debug\net8.0\LostAndFoundApp.pdb
 C:\Users\idris\Desktop\WorkSpace\LostAndFoundApp\obj\Debug\net8.0\LostAndFoundApp.genruntimeconfig.cache
 C:\Users\idris\Desktop\WorkSpace\LostAndFoundApp\obj\Debug\net8.0\ref\LostAndFoundApp.dll
+C:\Users\idris\Desktop\WorkSpace\LostAndFoundApp\obj\Debug\net8.0\LostAndFoundApp.sourcelink.json
