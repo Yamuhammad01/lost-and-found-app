@@ -15,7 +15,7 @@ namespace LostAndFoundApp
             var configuration = new ConfigurationBuilder()
                 .AddJsonFile("appsettings.json")
                 .Build();
-            optionsBuilder.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
+            optionsBuilder.UseNpgsql(configuration.GetConnectionString("DefaultConnection"));
             return new ItemDbContext(optionsBuilder.Options);
         }
     }

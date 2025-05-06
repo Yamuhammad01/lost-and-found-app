@@ -11,7 +11,7 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
 builder.Services.AddDbContext<ItemDbContext>(c =>
-    c.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    c.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddScoped<IItemService, ItemService>();
 

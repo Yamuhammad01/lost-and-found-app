@@ -58,8 +58,9 @@
 
         <div class="mb-3">
             <label for="dateFounded" class="form-label">Date</label>
-            <input type="text" id="datefounded" @bind="newDateFounded" />
+            <input type="date" id="datefounded" @bind="newDateFounded" class="form-control" />
         </div>
+
 
         <div class="text-center">
             <button class="btn btn-secondary me-2" @onclick="Cancel">Cancel</button>
@@ -75,7 +76,8 @@
     private string newDescription;
     private string errorMessage;
     private string newPhoneNumber;
-    private DateOnly newDateFounded;
+    private DateTime newDateFounded = DateTime.Today;
+
 
     private async Task InsertItem()
     {
@@ -87,6 +89,7 @@
         {
             Console.WriteLine("Form submitted successfully!");
         }
+        newDateFounded = DateTime.SpecifyKind(newDateFounded, DateTimeKind.Utc);
         var newItem = new Models.Item
             {
                 Name = newName,
@@ -96,7 +99,8 @@
                 PhoneNumber = newPhoneNumber,
                 DateFound = newDateFounded
             };
-       
+        
+
         await ItemService.AddItem(newItem);
         Navigation.NavigateTo("/item");
         StateHasChanged();

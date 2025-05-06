@@ -8,7 +8,12 @@
         public string Status { get; set; }
         public string Description { get; set; }
         public string PhoneNumber { get; set; }
-        public DateOnly DateFound { get; set; }
+        public DateTime DateFound
+        {
+            get => _dateFound;
+            set => _dateFound = DateTime.SpecifyKind(value, DateTimeKind.Utc);
+        }
+        private DateTime _dateFound;
 
     }
 }

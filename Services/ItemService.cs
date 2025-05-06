@@ -26,10 +26,11 @@ namespace LostAndFoundApp.Services
         }
         public async Task AddItem(Item items)
         {
+            items.DateFound = DateTime.SpecifyKind(items.DateFound, DateTimeKind.Utc);
             _context.Items.Add(items);
             await _context.SaveChangesAsync();
         }
-            
+
         public async Task UpdateItem(Item items)
         {
            
@@ -49,6 +50,7 @@ namespace LostAndFoundApp.Services
                 await _context.SaveChangesAsync();
             }
         }
+
     }
 }
 
