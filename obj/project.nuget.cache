@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PUsrpE8mwOU=",
+  "dgSpecHash": "LvNjK3FpmhA=",
   "success": true,
   "projectFilePath": "C:\\Users\\idris\\Desktop\\WorkSpace\\LostAndFoundApp\\LostAndFoundApp.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\idris\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.1\\microsoft.extensions.logging.abstractions.9.0.1.nupkg.sha512",
     "C:\\Users\\idris\\.nuget\\packages\\microsoft.extensions.options\\9.0.1\\microsoft.extensions.options.9.0.1.nupkg.sha512",
     "C:\\Users\\idris\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
+    "C:\\Users\\idris\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
     "C:\\Users\\idris\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\idris\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512",
     "C:\\Users\\idris\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.1\\npgsql.entityframeworkcore.postgresql.9.0.1.nupkg.sha512",
