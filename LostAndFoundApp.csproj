@@ -7,6 +7,7 @@
 		<UserSecretsId>5b9938d8-9ae5-4c3f-a485-d6a0950f3b52</UserSecretsId>
 		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
 		<DockerfileContext>.</DockerfileContext>
+	    <InvariantGlobalization>true</InvariantGlobalization>
 	</PropertyGroup>
 
 	<ItemGroup>

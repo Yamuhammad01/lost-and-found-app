@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LostAndFoundApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b3cdf74230f9466ed13f56ea94e82e462e96686")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7f130ff7e9e1f146492efa378c24f64cd817dea")]
 [assembly: System.Reflection.AssemblyProductAttribute("LostAndFoundApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LostAndFoundApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
