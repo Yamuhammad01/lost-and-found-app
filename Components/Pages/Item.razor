@@ -1,0 +1,82 @@
+﻿@page "/item"
+@rendermode InteractiveServer
+@inject NavigationManager Navigation
+@inject LostAndFoundApp.Services.IItemService ItemService
+
+<head>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<h3>Items Lost or Found</h3>
+
+@if (items == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Item Name</th>
+                    <th>Finder/Owner</th>
+                    <th>Status</th>
+                    <th>Description</th>
+                    <th>Phone Number</th>
+                    <th>Date</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in items)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Finder</td>
+                        <td>@item.Status</td>
+                        <td>@item.Description</td>
+                        <td>@item.PhoneNumber</td>
+                        <td>@item.DateFound</td>
+                        <td>
+                            <button class="btn btn-warning btn-sm" @onclick="() => NavigateToUpdate(item.Id)">Update</button>
+                            <button class="btn btn-danger btn-sm" @onclick="() => DeleteItem(item.Id)">Delete</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+<button class="btn btn-primary" @onclick="OpenAddClubModal">Add Item</button>
+
+@code {
+    private List<Models.Item> items;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Load the club when the component is initialized
+        items = await ItemService.GetItem();
+
+    }
+
+    private void OpenAddClubModal()
+    {
+        Navigation.NavigateTo("/add-item");
+    }
+
+    private void NavigateToUpdate(int ItemId)
+    {
+        Navigation.NavigateTo($"/update/{ItemId}");
+    }
+
+    private async Task DeleteItem(int ItemId)
+    {
+
+        await ItemService.DeleteItem(ItemId);
+
+        items = await ItemService.GetItem();
+    }
+
+}
